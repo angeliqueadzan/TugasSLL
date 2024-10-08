@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728392003 source:d:\coding\kerkomsll\sll.cpp
+	"SLL.h"
+
+1728396076 d:\coding\kerkomsll\sll.h
+	<iostream>
+	<string>
+
+1728392104 source:d:\coding\kerkomsll\main.cpp
+	<iostream>
+	"SLL.h"
+
